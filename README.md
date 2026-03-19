@@ -16,7 +16,7 @@ Just paste a JD + resumes → get ranked candidates with scores, strengths, gaps
 
 ## Live Demo
 
-👉 [View Live App](https://your-vercel-link.vercel.app)
+👉 [View Live App](https://recruitai-resume-screener-4iyo8mk87-navya-agarwal-projects.vercel.app/)
 
 > Open the link → click **"Screen Now"** → watch AI rank candidates in real time.
 
@@ -94,7 +94,7 @@ recruitai-resume-screener/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/recruitai-resume-screener.git
+git clone https://github.com/NavyaAgarwal02/recruitai-resume-screener.git
 
 # 2. Navigate into the project
 cd recruitai-resume-screener
